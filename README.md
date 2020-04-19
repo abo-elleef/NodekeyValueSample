@@ -1,3 +1,7 @@
+# Motivation 
+
+was an onspot task for interview 
+
 # Simple Node Developer Challenge
 
 ### Goal
